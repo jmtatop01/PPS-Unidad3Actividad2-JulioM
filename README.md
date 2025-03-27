@@ -36,17 +36,15 @@ En esta segunda práctica de la unidad 3 tenemos como objetivos:
 
         - ssl-heartbleed: Comprueba si un servidor es vulnerable a la vulnerabilidad Heartbleed en OpenSSL.
 
-Un ejemplo de como utilizarlo es con el comando:
 
-            **nmap --script vuln 192.168.1.1**
 
-	- Cómo podemos buscar información de explotación de vulnerabilidades con searchsploit
+    - Cómo podemos buscar información de explotación de vulnerabilidades con searchsploit
 
         - SearchSploit: Es una herramienta que permite buscar y acceder a exploits disponibles en la base de datos de Exploit-DB desde la línea de comandos. Es especialmente útil para identificar exploits relacionados con vulnerabilidades detectadas en sistemas o aplicaciones.
 
 Un ejemplo de búsqueda es con el comando:
 
-            **searchsploit vsftpd 2.3.4**
+            searchsploit vsftpd 2.3.4
 
 
 - Instala en tu navegador la extensión de Shodan y muestra la información que tenemos tanto de ip, como de dominio del sitio http://iesvalledeljerteplasencia.es 
