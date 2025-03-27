@@ -48,7 +48,16 @@ Un ejemplo de búsqueda es con el comando:
 
 
 - Instala en tu navegador la extensión de Shodan y muestra la información que tenemos tanto de ip, como de dominio del sitio http://iesvalledeljerteplasencia.es 
-- Sobre la red del laboratorio PPS con kali, bWAPP, Multidillae y DVWA:<
+
+<div align="center">
+  <img src="/Imagenes/1.png" width="500">
+</div>
+
+<div align="center">
+  <img src="/Imagenes/2.png" width="500">
+</div>
+
+- Sobre la red del laboratorio PPS con kali, bWAPP, Multidillae y DVWA:
 	- Ayudándote del fichero docker-compose localiza las diferentes máquinas y puertos que deberían de tener abiertos.
 	- Identifica los equipos de la Red con Nmap.
 	- Realiza análisis de puertos en las MV.
