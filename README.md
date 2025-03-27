@@ -40,7 +40,6 @@ Un ejemplo de como utilizarlo es con el comando:
 
             **nmap --script vuln 192.168.1.1**
 
-
 	- Cómo podemos buscar información de explotación de vulnerabilidades con searchsploit
 
         - SearchSploit: Es una herramienta que permite buscar y acceder a exploits disponibles en la base de datos de Exploit-DB desde la línea de comandos. Es especialmente útil para identificar exploits relacionados con vulnerabilidades detectadas en sistemas o aplicaciones.
