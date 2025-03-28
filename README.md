@@ -64,43 +64,43 @@ Un ejemplo de búsqueda es con el comando:
   <img src="/Imagenes/3.png" width="500">
 </div>
 
-	- Identifica los equipos de la Red con Nmap.
+- Identifica los equipos de la Red con Nmap.
 
 <div align="center">
   <img src="/Imagenes/4.png" width="500">
 </div>
 
-	- Realiza análisis de puertos en las MV.
+- Realiza análisis de puertos en las MV.
 
 <div align="center">
   <img src="/Imagenes/5.png" width="500">
 </div>
 
-	- Encuentra los Servicios y Sistemas Operativos de las MV.
+- Encuentra los Servicios y Sistemas Operativos de las MV.
 
 <div align="center">
   <img src="/Imagenes/6.png" width="500">
 </div>
 
-	- Inspecciona los puertos con nikto.
+- Inspecciona los puertos con nikto.
 
 <div align="center">
   <img src="/Imagenes/7.png" width="500">
 </div>
 
-	- Busca las vulnerabilidades de las MV con los scripts de Nmap.
+- Busca las vulnerabilidades de las MV con los scripts de Nmap.
 
 <div align="center">
   <img src="/Imagenes/10.png" width="500">
 </div>
 
-	- Localiza los servicios web que tienen las diferentes máquinas (Wfuzz y Dirb).
+- Localiza los servicios web que tienen las diferentes máquinas (Wfuzz y Dirb).
 
 <div align="center">
   <img src="/Imagenes/8.png" width="500">
 </div>
 
-	- Utiliza el comando searchsploit para buscar información de explotación de vulnerabilidades presentes en linux con kernel 5
+- Utiliza el comando searchsploit para buscar información de explotación de vulnerabilidades presentes en linux con kernel 5
 
 <div align="center">
   <img src="/Imagenes/9.png" width="500">
